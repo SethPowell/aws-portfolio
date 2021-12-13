@@ -29,7 +29,7 @@ export default function About(){
                 </div>
                 <div className="spacer" />
                 <div className="photo-wrapper">
-                    <img src="https://drive.google.com/uc?export=view&id=1nOaBOV0i5Fg7c0JdUvj_7GOE_gPi-W3P"></img>
+                    <img src="https://i.postimg.cc/Gm0CFGnZ/resume-no-teeth-cropped.jpg"></img>
                 </div>
                 <div className="spacer" />
                 <div className="text-wrapper">

@@ -39,11 +39,11 @@ export default function Projects() {
                 <div class="flip-card">
                     <div class="flip-card-inner">
                         <div class="flip-card-front">
-                            <h1>Tool Tracker</h1>
-                            <img className="card-img" src="https://i.postimg.cc/j59YcPPN/capstone.png" />
+                            <h1>Deck Builder</h1>
+                            <img className="mtg-img" src="https://i.postimg.cc/t4072Vz0/mtg-logo.png" />
                         </div>
                         <div className="flip-card-back">
-                            <a className="link" target="_blank" href=" https://jm-capstone.herokuapp.com/">Visit Tool Tracker</a>
+                            <a className="link" target="_blank" href=" https://https://mtg-deck-builder-swp.herokuapp.com/">Visit Deck Builder</a>
                         </div>
                     </div>
                 </div>
@@ -51,11 +51,11 @@ export default function Projects() {
                 <div class="flip-card">
                     <div class="flip-card-inner">
                         <div class="flip-card-front">
-                            <h1>How old are you? </h1>
-                            <img className="card-img" src="https://i.imgur.com/jZh88Zr.png" />
+                            <h1>Calendar </h1>
+                            <img className="card-img" src="https://i.postimg.cc/R0dFSpx9/calendar-Logo.png" />
                         </div>
                         <div className="flip-card-back">
-                            <a className="link" target="_blank" href="https://wjm-how-old.herokuapp.com/">Visit How Old</a>
+                            <a className="link" target="_blank" href="https://calendar-react-swp.herokuapp.com/">Visit Calendar</a>
                         </div>
                     </div>
                 </div>

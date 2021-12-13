@@ -29,11 +29,17 @@ export default function About(){
                 </div>
                 <div className="spacer" />
                 <div className="photo-wrapper">
-                    <img src="https://avatars2.githubusercontent.com/u/61288503?s=460&u=ab9865db546865c0bbbb84e13d11c108ae385a5f&v=4" />
+                    <img src="https://drive.google.com/uc?export=view&id=1nOaBOV0i5Fg7c0JdUvj_7GOE_gPi-W3P"></img>
                 </div>
                 <div className="spacer" />
                 <div className="text-wrapper">
-                    <p>Hello, I am Joseph Mark. I graduated from Bottega's full stack development course in May of 2020.  Because of the job market at the time I accepted a position as a customer service representative at a good company who was planning to expand their IS team in the future, hopeful that I could advance from within.  After about 5 months I started working as a Junior Systems Developer on January first, 2021. Since then I have worked heavily with AWS and cloud computing, designing scalable custom integrations, collaborating with teams in our company to ensure that they have the data needed to excel in their position, researching and implementing a VPN for the company, collaborating with HR to design an efficient onboarding process as far as the hardware and software needs of the employee being hired, and basic cybersecurity checks.  These have all been wonderful experiences, despite the many challenges and roadblocks that my team and I have overcome in the past year.</p>
+                    <p>
+                        My name is Seth Powell and I graduated Bottega University's Full Stack Developer Program as of September 24th, 2021. 
+                        I am currently profficient in JavaScript, Python, React, MySQL, MongoDB, Redis, HTML5, SCSS, and CSS. I am also working 
+                        towards a certification in AWS. I have also been doing work in cyber security measures such as SOC compliance and 2 way 
+                        encryption practices. I am currently looking for a job in network security and optimization, or similar fields to develop 
+                        more experience and more robust credentials for this career.
+                    </p>
                 </div>
             </div>
 

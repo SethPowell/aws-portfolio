@@ -112,7 +112,7 @@ export default function Contact(){
             <form 
                 className="gform" 
                 method="POST" 
-                data-email="wjosephmark@gmail.com" 
+                data-email="sethpowellbusiness@gmail.com" 
                 action="https://script.google.com/macros/s/AKfycbzbAcMS7WjSs-IjWxFDBsMTUwuzQz2oAodzIf_k/exec" 
                 onSubmit={() => changeDisplay()}
             >
@@ -129,10 +129,10 @@ export default function Contact(){
                 <div className="info-holder">
                     <div className="spacer" />
                     <div className="email">
-                        < a href="mailto:wjosephmark@gmail.com">wjosephmark@gmail.com</a>
+                        < a href="mailto:sethpowellbusiness@gmail.com">sethpowellbusiness@gmail.com</a>
                     </div>
                     <div className="phone">
-                        <p>Cell - (801) 830-9786</p>
+                        <p>Cell - (385) 375-4755</p>
                     </div>
                 </div>
             </form>
@@ -140,7 +140,7 @@ export default function Contact(){
         } else {
             return(
                 <div className="thank-text">
-                    <h1>Thank you, I recieved your message!  I will get back to you as soon as I can.</h1>
+                    <h1>Thank you, I recieved your message! I will get back to you as soon as I can.</h1>
                 </div>
             )
         }

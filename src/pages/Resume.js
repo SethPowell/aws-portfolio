@@ -24,8 +24,8 @@ export default function Resume(){
             </div>
 
             <div className="resume-wrapper">
-                <iframe src="https://docs.google.com/document/d/e/2PACX-1vTEoi7hVCPqTkusuqww72io4iTYB21At-FsXdjfPM5M-Q3IuwmEJof-nqU7axlrWjNJxSdTU8g-Cf-F/pub?embedded=true" height="700px" width="600px"/>
-                <a href="https://docs.google.com/document/d/18Dk2ELpPRAqJe8174_1uyrX0avYZkj5cocApeyMNHNY/edit?usp=sharing" target="_blank" download="william_mark_résumé">View Document</a>
+                <iframe src="https://docs.google.com/document/d/e/2PACX-1vTChz-Nh5It4XOK84IK5bi64Lo89or8DQdJ7WildwV83pAkLrD1h2tsMnDoIdjDnQ/pub?embedded=true" height="700px" width="600px"/>
+                <a href="https://docs.google.com/document/d/1nG0WenHVQ6cYZzFXgBDbfM5T9Qwd-py7/edit?usp=sharing&ouid=114577462020167596253&rtpof=true&sd=true" target="_blank" download="william_mark_résumé">View Document</a>
             </div>
         </div>
     )

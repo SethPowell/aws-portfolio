@@ -43,7 +43,7 @@ export default function Projects() {
                             <img className="mtg-img" src="https://i.postimg.cc/t4072Vz0/mtg-logo.png" />
                         </div>
                         <div className="flip-card-back">
-                            <a className="link" target="_blank" href=" https://https://mtg-deck-builder-swp.herokuapp.com/">Visit Deck Builder</a>
+                            <a className="link" target="_blank" href=" https://mtg-deck-builder-swp.herokuapp.com/">Visit Deck Builder</a>
                         </div>
                     </div>
                 </div>

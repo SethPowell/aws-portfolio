@@ -51,11 +51,11 @@ export default function Projects() {
                 <div class="flip-card">
                     <div class="flip-card-inner">
                         <div class="flip-card-front">
-                            <h1>Calendar </h1>
+                            <h1>Reflections of Memories</h1>
                             <img className="card-img" src="https://i.postimg.cc/R0dFSpx9/calendar-Logo.png" />
                         </div>
                         <div className="flip-card-back">
-                            <a className="link" target="_blank" href="https://calendar-react-swp.herokuapp.com/">Visit Calendar</a>
+                            <a className="link" target="_blank" href="https://reflectionofmemories.com/">View Site</a>
                         </div>
                     </div>
                 </div>

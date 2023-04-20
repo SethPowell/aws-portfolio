@@ -52,7 +52,7 @@ export default function Projects() {
                     <div class="flip-card-inner">
                         <div class="flip-card-front">
                             <h1>Reflections of Memories</h1>
-                            <img className="card-img" src="https://i.postimg.cc/R0dFSpx9/calendar-Logo.png" />
+                            <img class='rom-img' className="card-img" src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/45719/ring-emoji-clipart-md.png" />
                         </div>
                         <div className="flip-card-back">
                             <a className="link" target="_blank" href="https://reflectionofmemories.com/">View Site</a>
@@ -63,11 +63,11 @@ export default function Projects() {
                 <div class="flip-card">
                     <div class="flip-card-inner">
                         <div class="flip-card-front">
-                            <h1>Weather App</h1>
-                            <img className="card-img" src="https://i.imgur.com/jZh88Zr.png" />
+                            <h1>Mortgage Lender</h1>
+                            <img class='rod-ball' className="card-img" src="https://clipartix.com/wp-content/uploads/2016/05/Clipart-house-images-free-clipart-images-3.png" />
                         </div>
                         <div className="flip-card-back">
-                            <a className="link" target="_blank" href="https://wjm-weather.herokuapp.com/">Visit Weather App</a>
+                            <a className="link" target="_blank" href="https://parkcityhomeloans.com/">View Site</a>
                         </div>
                     </div>
                 </div>

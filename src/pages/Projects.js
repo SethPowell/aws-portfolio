@@ -52,7 +52,7 @@ export default function Projects() {
                     <div class="flip-card-inner">
                         <div class="flip-card-front">
                             <h1>Reflections of Memories</h1>
-                            <img className="card-img" class="rom-img" src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/45719/ring-emoji-clipart-md.png" />
+                            <img className="card-img" id="rom-img" src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/45719/ring-emoji-clipart-md.png" />
                         </div>
                         <div className="flip-card-back">
                             <a className="link" target="_blank" href="https://reflectionofmemories.com/">View Site</a>
@@ -64,7 +64,7 @@ export default function Projects() {
                     <div class="flip-card-inner">
                         <div class="flip-card-front">
                             <h1>Mortgage Lender</h1>
-                            <img className="card-img" class="rod-ball" src="https://clipartix.com/wp-content/uploads/2016/05/Clipart-house-images-free-clipart-images-3.png" />
+                            <img className="card-img" id="rod-ball" src="https://clipartix.com/wp-content/uploads/2016/05/Clipart-house-images-free-clipart-images-3.png" />
                         </div>
                         <div className="flip-card-back">
                             <a className="link" target="_blank" href="https://parkcityhomeloans.com/">View Site</a>
